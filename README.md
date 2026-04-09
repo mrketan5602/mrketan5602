@@ -1,5 +1,30 @@
-# 💫 About Me:
-About Me<br>2nd-year BCA student starting from the ground up. No fake “full-stack” claims. Focused on learning real computer science, not chasing buzzwords.<br><br>I’m currently working on<br>Building fundamentals: programming basics, small projects, and understanding how things actually work instead of copy-pasting tutorials.<br><br>I’m looking to collaborate on<br>Beginner-friendly projects where learning > ego. If you want fast results with zero effort, don’t bother.<br><br>I’m looking for help with<br>Clear guidance, code reviews, and brutally honest feedback to avoid wasting time on useless paths.<br><br>I’m currently learning<br>Programming fundamentals, problem-solving, and core CS concepts. Slowly, properly, no shortcuts.<br><br>Ask me about<br>Basic coding, beginner projects, logic building, or why blind motivation without skills is useless.<br><br>Fun fact<br>I question everything—religion, advice, and my own assumptions. Comfort doesn’t interest me; progress does.
+# About Me
+
+2nd-year BCA student building skills from the ground up. Focused on understanding core computer science concepts instead of chasing trends or shortcuts.
+
+## What I'm Working On
+- Strengthening programming fundamentals through small Python projects  
+- Learning how systems work (networking basics, Linux)  
+- Practicing problem-solving and writing clean code  
+
+## Looking to Collaborate On
+- Beginner-friendly projects where learning and consistency matter  
+
+## Looking For
+- Honest feedback, code reviews, and clear guidance to improve faster  
+
+## Currently Learning
+- Python fundamentals  
+- Networking basics (IP, DNS, Ports)  
+- Linux (basic usage and commands)  
+
+## Ask Me About
+- Beginner coding problems  
+- Logic building  
+- Early-stage learning in programming  
+
+## Mindset
+I focus on consistency and real understanding rather than shortcuts or hype.
 
 
 ## 🌐 Socials:
